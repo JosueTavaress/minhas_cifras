@@ -4,7 +4,7 @@ DESENVOLVIMENTO WEB
 
 #pagina com conteudos musicais
 #cifras
-#cifras pessoas
+#cifras pessoais
 
 ########
 funcionabilidade Geral
