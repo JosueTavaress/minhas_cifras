@@ -6,7 +6,7 @@ margin: 0;
 ul {
 padding: 0px!important;
 }
-.menu-principal{
+.menu-inicial{
 width: 100%;
 background-color: #252323;
 height: 60px;
@@ -21,7 +21,7 @@ float: left;
 padding: 16px;
 width: 70%;
 }
-.menu-principal ul li {
+.menu-inicial ul li {
 margin-left: 15px;
 display: inline-block;
 list-style: none;
@@ -82,5 +82,8 @@ float: left;
 position: relative;
 }
 .slaider-principal {
-
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
